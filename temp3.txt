@@ -1,3 +1,4 @@
 added another text file 3
 adding one more line to text file!!====
 test 3
+squash test
